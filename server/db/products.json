@@ -1,0 +1,64 @@
+[{
+    "id_product": 123,
+    "product_name": "Dress",
+    "product_info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, facere!",
+    "product_img": "/img/catalog-1.jpg",
+    "price": 54
+  },
+  {
+    "id_product": 124,
+    "product_name": "Jeans",
+    "product_info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis officiis animi in vero ut eveniet et eius nesciunt nulla. Repellat, ab magnam! Quisquam excepturi suscipit accusantium rem. Explicabo.",
+    "product_img": "/img/catalog-2.jpg",
+    "price": 78
+  },
+  {
+    "id_product": 125,
+    "product_name": "Coat",
+    "product_info": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "product_img": "/img/catalog-3.jpg",
+    "price": 98
+  },
+  {
+    "id_product": 126,
+    "product_name": "Jacket",
+    "product_info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, facere!",
+    "product_img": "/img/catalog-4.jpg",
+    "price": 54
+  },
+  {
+    "id_product": 127,
+    "product_name": "Jumper",
+    "product_info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis officiis animi in vero ut eveniet et eius nesciunt nulla. Repellat, ab magnam! Quisquam excepturi suscipit accusantium rem. Explicabo.",
+    "product_img": "/img/catalog-5.jpg",
+    "price": 76
+  },
+  {
+    "id_product": 128,
+    "product_name": "Suit",
+    "product_info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, facere!",
+    "product_img": "/img/catalog-6.jpg",
+    "price": 35
+  },
+  {
+    "id_product": 129,
+    "product_name": "Shorts",
+    "product_info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, facere!",
+    "product_img": "/img/catalog-2.jpg",
+    "price": 32
+  },
+  {
+    "id_product": 130,
+    "product_name": "T-shirt",
+    "product_info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis officiis animi in vero ut eveniet et eius nesciunt nulla. Repellat, ab magnam! Quisquam excepturi suscipit accusantium rem. Explicabo.",
+    "product_img": "/img/catalog-1.jpg",
+    "price": 21
+  },
+  {
+    "id_product": 131,
+    "product_name": "Cardigan",
+    "product_info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, facere!",
+    "product_img": "/img/catalog-5.jpg",
+    "price": 74
+  }
+]
